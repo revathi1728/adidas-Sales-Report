@@ -32,8 +32,4 @@ The dashboard provides insights into revenue, profit, units sold, and product pe
 
 ## 🖼 Screenshots
 *Overview Page (Summary KPIs & Trends)*  
-[Overview](Screenshots/overview.png)
-
-## 🔗 GitHub Repository
-[Click here to view the project](https://github.com/yourusername/PowerBI-Adidas-Sales)
-\
+[Overview](adidas sales Report ss.png)
