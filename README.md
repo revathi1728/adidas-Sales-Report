@@ -10,8 +10,8 @@ The dashboard provides insights into revenue, profit, units sold, and product pe
 - *Power BI*
 - *DAX (Data Analysis Expressions)*
 - *Power Query*
-- *GitHub (for portfolio showcase)*
 
+  
 ---
 
 ## ✨ Key Features
@@ -32,4 +32,4 @@ The dashboard provides insights into revenue, profit, units sold, and product pe
 
 ## 🖼 Screenshots
 *Overview Page (Summary KPIs & Trends)*  
-[Overview](adidas sales Report ss.png)
+[Overview](adidassalesReportss.png)
