@@ -28,8 +28,3 @@ The dashboard provides insights into revenue, profit, units sold, and product pe
 - Enabled quick identification of *top-performing regions & products*  
 - Improved decision-making with *real-time interactive analysis*  
 
----
-
-## 🖼 Screenshots
-*Overview Page (Summary KPIs & Trends)*  
-[Overview](adidassalesReportss.png)
